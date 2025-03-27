@@ -7,6 +7,10 @@ body {
     text-align: center;
     overflow-x: hidden;
 }
+link[rel="icon"] {
+    border-radius: 50%;
+}
+
 canvas {
     position: fixed;
     top: 0;
